@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Restaurant/static/css/main.8abd0c8b.css",
+    "main.js": "/Restaurant/static/js/main.a3a59716.js",
+    "static/js/453.80efc53e.chunk.js": "/Restaurant/static/js/453.80efc53e.chunk.js",
+    "static/media/dinner2.png": "/Restaurant/static/media/dinner2.a95eff72391ffbd2c81c.png",
+    "static/media/about.png": "/Restaurant/static/media/about.8d8a9b1912d09779e2a4.png",
+    "static/media/dinner4.png": "/Restaurant/static/media/dinner4.46277ee301f5072a0b63.png",
+    "static/media/dinner5.png": "/Restaurant/static/media/dinner5.086763429fa66da3fcae.png",
+    "static/media/dinner3.png": "/Restaurant/static/media/dinner3.584eb72647ccf87403af.png",
+    "static/media/whoweare.png": "/Restaurant/static/media/whoweare.c09021221d344a27f81b.png",
+    "static/media/dinner6.png": "/Restaurant/static/media/dinner6.42e08bb11771f75ad776.png",
+    "static/media/reservation.png": "/Restaurant/static/media/reservation.45b02952f5945019e7ea.png",
+    "static/media/hero2.png": "/Restaurant/static/media/hero2.a6b1fc71eac2b1504eea.png",
+    "static/media/hero1.png": "/Restaurant/static/media/hero1.9f707092fc401fe0f7e8.png",
+    "static/media/dinner1.jpeg": "/Restaurant/static/media/dinner1.32a034f1ba3236640538.jpeg",
+    "static/media/team_member_2.png": "/Restaurant/static/media/team_member_2.31632738b8e4516b61ca.png",
+    "static/media/team_member_1.png": "/Restaurant/static/media/team_member_1.f7af8bb3ababa4d9d31c.png",
+    "static/media/team_member_3.png": "/Restaurant/static/media/team_member_3.0d52cba51e117584e4f1.png",
+    "static/media/team_member_4.png": "/Restaurant/static/media/team_member_4.42c2a49880873bc1ce1e.png",
+    "static/media/logo.svg": "/Restaurant/static/media/logo.6dd3363b9e18efd40fc973c3f308af0e.svg",
+    "static/media/super_taste.svg": "/Restaurant/static/media/super_taste.1fd1158d434b5cf9eb6c12b837242d71.svg",
+    "static/media/fast_delivery.svg": "/Restaurant/static/media/fast_delivery.babda088443b2cba26a87db77257fb03.svg",
+    "static/media/quality_food.svg": "/Restaurant/static/media/quality_food.b5d72dce51e365b50bf971bfcb9b9202.svg",
+    "index.html": "/Restaurant/index.html",
+    "static/media/threelines.svg": "/Restaurant/static/media/threelines.a1e97d858a0d20436c58a12e8d61e516.svg",
+    "main.8abd0c8b.css.map": "/Restaurant/static/css/main.8abd0c8b.css.map",
+    "main.a3a59716.js.map": "/Restaurant/static/js/main.a3a59716.js.map",
+    "453.80efc53e.chunk.js.map": "/Restaurant/static/js/453.80efc53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8abd0c8b.css",
+    "static/js/main.a3a59716.js"
+  ]
+}
